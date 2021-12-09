@@ -1,0 +1,26 @@
+2021-12-09 20:04:22 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-09 20:04:22 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-09 20:10:50 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-09 20:10:50 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-09 20:10:50 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-09 20:10:50 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-09 20:10:50 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-09 20:10:50 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-09 20:10:50 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-09 20:21:46 - WARNING - "GET /blog HTTP/1.1" 404 1536
+2021-12-09 20:21:46 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-09 20:21:46 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-09 20:21:46 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-09 20:21:46 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-09 20:21:46 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-09 20:21:46 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-09 20:21:46 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-09 20:21:46 - INFO - "GET /blogs HTTP/1.1" 200 2
+2021-12-09 20:21:46 - INFO - "POST /blogs HTTP/1.1" 200 358
+2021-12-09 20:21:46 - INFO - "GET /blogs HTTP/1.1" 200 360
+2021-12-09 20:21:46 - INFO - "GET /favicon.ico HTTP/1.1" 200 1739
+2021-12-09 20:21:46 - INFO - "POST /blogs HTTP/1.1" 200 361
+2021-12-09 20:21:46 - INFO - "POST /blogs HTTP/1.1" 200 362
+2021-12-09 20:21:46 - INFO - "DELETE /blogs/3 HTTP/1.1" 200 364
+2021-12-09 20:21:46 - INFO - "GET /blogs HTTP/1.1" 200 723
+2021-12-09 20:21:46 - INFO - "GET /favicon.ico HTTP/1.1" 200 1739
